@@ -18,6 +18,9 @@ const config = {
       },
     },
     extend: {
+      fontSize: {
+        xl: '1.5rem', // Define custom size
+      },
       colors: {
         primary: {
           black: "#14181F",
